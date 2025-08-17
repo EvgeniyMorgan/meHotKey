@@ -65,7 +65,3 @@ end;
 **Component Name:** `TmeHotKey`  
 **Unit:** `meHotKey.pas`  
 **Inheritance:** `TCustomEdit` → `TmeHotKey`  
-
---- 
-
-This description can be used in documentation, GitHub READMEs, or component libraries. Let me know if you need adjustments! 🚀
