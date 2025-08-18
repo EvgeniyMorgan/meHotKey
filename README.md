@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Most likely, there won’t be full documentation—just no time for it, unfortunately((.<br>
+> For any potential issues, please email us. ewgen.morgunov@yandex.ru
+
 ### **Component Description: TmeHotKey**  
 
 `TmeHotKey` is a specialized edit control designed for capturing and displaying keyboard shortcuts (hotkeys) in Lazarus applications. It provides a user-friendly way to set and manage key combinations (e.g., `Ctrl+S`, `Alt+F4`, `Win+R`).  
